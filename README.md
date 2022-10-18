@@ -1,5 +1,7 @@
 # Principios de Visualización de Datos
 
+[Version en notion](https://www.notion.so/Principios-de-Visualizaci-n-de-Datos-f3c2e9e76e0c483a95805c9166405443) ![notion](images_Principios_Visualizacion_Datos/notion.PNG)
+
 - GENERALIDADES
     
     ¿Qué es la visualización de datos?: se define en 2 términos:
